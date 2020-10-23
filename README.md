@@ -2,6 +2,8 @@
 <img src="https://i.ibb.co/KwS4vKL/texteditor.png" width="400">
 
 ## Usage
+Toolbar uses expo icons
+
 ```javascript
 import React from 'react'
 import { View } from 'react-native'
