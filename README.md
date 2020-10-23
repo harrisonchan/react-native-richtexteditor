@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/KwS4vKL/texteditor.png" width="400">
 
 ## Usage
-Toolbar uses expo icons
+Toolbar uses expo icons. Requires install of `react-native-webview`
 
 ```javascript
 import React from 'react'
